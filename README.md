@@ -4,8 +4,6 @@ Auto-Fresco wrapper!
 [![Build Status](https://api.travis-ci.org/We-Mobile/Afresco.svg)](https://travis-ci.org/We-Mobile/Afresco)
 [![JitPack](https://img.shields.io/github/release/ppamorim/Afresco.svg?label=JitPack)](https://jitpack.io/#ppamorim/afresco)
 
-https://img.shields.io/github/release/ppamorim/Afresco.svg?label=JitPack
-
 Fresco can be a complicated library, but Afresco will help you to load images without any pain!
 
 Usage
