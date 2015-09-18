@@ -8,6 +8,18 @@ Fresco can be a complicated library, but Afresco will help you to load images wi
 Usage
 -----
 
+Add this on your build.gradle
+
+```groovy
+repositories {
+  maven { url "https://jitpack.io" }
+}
+
+dependencies {
+  compile 'com.github.ppamorim:afresco:1.0'
+}
+```
+
 Initialize Fresco instance on your application class
 
 ```java
